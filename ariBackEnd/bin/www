@@ -1,7 +1,14 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies.
+ * Module dependencies.Esa gente solo para estilo sirve, eso no funciona
+ * quien?
+ * Los de la mesa de laboratorio
+ * son de sistemas?
+ * SI, niños rata
+ * no parecen de sistemas
+ * Son ratas
+ * snif snif
  */
 var MongoClient = require('mongodb').MongoClient;
 var MongoUriPrd = "mongodb+srv://sw2019user:wm7kqyvQ8InSrM1e@cojba-nzup0.mongodb.net/test?retryWrites=true&w=majority";
